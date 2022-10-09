@@ -1,4 +1,4 @@
-Health data competition 2022 Team 9, cooperated with Arnold, Zexian and Zhecheng.
+Health data competition 2022 Team 9, collaborated with Arnold, Zexian and Zhecheng.
 
 Main dataset
 
